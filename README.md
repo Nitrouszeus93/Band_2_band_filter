@@ -43,7 +43,8 @@ Laboratory at UABC, Mexicali.
 | Transistors | 5 (1 filter NMOS with 8 fingers, 4 in the output stage) |
 | Analog pins | `ua[0]` input, `ua[1]` output, `ua[2]` source_2 |
 | Supply / power | 1.8 V, about 10 µW |
-
+| Project Supervisor | Jose Luis Valtierra Sanchez de la Vega |
+| Project Participants | Vanessa Rocha, Gael Portillo, Juan Nuñez, Joel Badillo, Julian Gonzalez |
 ## Design Concept
 
 With its channel off, a MOSFET still conducts picoampere currents through
