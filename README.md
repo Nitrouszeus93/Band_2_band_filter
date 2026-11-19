@@ -41,7 +41,7 @@ Laboratory at UABC, Mexicali.
 | Tile size | `<1x2 ` |
 | Design type | Analog low-pass filter |
 | Transistors | 5 (1 filter NMOS with 8 fingers, 4 in the output stage) |
-| Analog pins | `ua[0]` Vin, `ua[1]` Vout, `ua[2]` source_2 |
+| Analog pins | `ua[0]` input, `ua[1]` output, `ua[2]` source_2 |
 | Supply / power | 1.8 V, about 10 µW |
 
 ## Design Concept
