@@ -85,7 +85,7 @@ Full-custom analog layout:
 - `gds/`: final GDS file.
 - `lef/`: LEF abstract for the Tiny Tapeout flow.
 - `info.yaml`: project metadata and pinout.
-- `<xschem/>`, `<mag/>`: schematics and layout sources (adjust to your folders).
+- `<mag/>`: layout sources.
 
 ## Acknowledgments
 
